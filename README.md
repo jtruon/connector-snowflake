@@ -1,1 +1,1 @@
-# connector-snowflake
+# Camunda Snowflake Database Connector
